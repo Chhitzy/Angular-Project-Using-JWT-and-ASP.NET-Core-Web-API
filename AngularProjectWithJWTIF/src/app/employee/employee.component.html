@@ -1,0 +1,112 @@
+<div class="row p-2 m-2 border">
+    <div class="col-9">
+        <h2 class="text-primary">Employee List</h2>
+    </div>
+    <div class="col-3">
+        <button class="btn btn-info form-control" data-target="#newEmployee" data-toggle="modal">
+            <i class="fa fa-plus"></i>&nbsp; Add New Employee
+        </button>
+    </div>
+</div>
+<div class="container rounded border">
+    <table class="table table-bordered table-striped table-active">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Salary</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+             <tr *ngFor="let emp of employeesList">
+    <td>{{ emp.name }}</td>
+    <td>{{ emp.address }}</td>
+    <td>{{ emp.salary }}</td>
+    <td>
+      <button class="btn btn-info" (click)="editClick(emp)"data-target="#editEmployee" data-toggle="modal">
+        <i class="fa fa-edit"></i>
+      </button>
+      <button class="btn btn-danger m-1" (click)="deleteClick(emp.id)">
+        <i class="fa fa-trash"></i>
+      </button>
+    </td>
+  </tr>
+
+        </tbody>
+    </table>
+</div>
+<!-- New Employee -->
+ <div class="modal" tabindex="-1" role="dialog" id="newEmployee">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">New Employee</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="form-group row">
+            <label class="col-4" for="txtname">Name</label>
+            <div class="col-8">
+                <input id="txtname" type="text" name="Address" class="form-control" [(ngModel)]="newEmployee.name" placeholder="Enter Employee Address">
+            </div>
+        </div>
+           <div class="form-group row">
+            <label class="col-4" for="txtaddress">Address</label>
+            <div class="col-8">
+                <input id="txtaddress" type="text" name="Address" [(ngModel)]="newEmployee.address" class="form-control" placeholder="Enter Employee Address">
+            </div>
+        </div>   <div class="form-group row">
+            <label class="col-4" for="txtsalary">Salary</label>
+            <div class="col-8">
+                <input id="txtsalary" type="text" name="Salary" class="form-control" [(ngModel)]="newEmployee.salary" placeholder="Enter Employee Salary">
+            </div>
+        </div>
+       
+      </div>
+      <div class="modal-footer">
+        <button type="button" (click) = "saveClick()"  class="btn btn-primary" data-dismiss="modal">Save changes</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Edit Employee -->
+  <div class="modal" tabindex="-1" role="dialog" id="editEmployee">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Edit Employee</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="form-group row">
+            <label class="col-4" for="txtname">Name</label>
+            <div class="col-8">
+                <input id="txtname" type="text" name="Address" class="form-control" [(ngModel)]="editEmployee.name" placeholder="Enter Employee Address">
+            </div>
+        </div>
+           <div class="form-group row">
+            <label class="col-4" for="txtaddress">Address</label>
+            <div class="col-8">
+                <input id="txtaddress" type="text" name="Address" class="form-control" [(ngModel)]="editEmployee.address" placeholder="Enter Employee Address">
+            </div>
+        </div>   <div class="form-group row">
+            <label class="col-4" for="txtsalary">Salary</label>
+            <div class="col-8">
+                <input id="txtsalary" type="text" name="Salary" class="form-control" [(ngModel)]="editEmployee.salary" placeholder="Enter Employee Salary">
+            </div>
+        </div>
+       
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" (click) ="updateClick()" data-dismiss="modal">Update changes</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>

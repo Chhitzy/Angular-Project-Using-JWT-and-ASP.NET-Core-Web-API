@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AngularProjectFolder2\\Employee_API_JWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\servicecontract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:servicecontract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\identity\\applicationsigninmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:identity\\applicationsigninmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\identity\\applicationrolestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:identity\\applicationrolestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\identity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:identity\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\identity\\applicationrolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:identity\\applicationrolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:identity\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\models\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:models\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\identity\\applicationuserstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:identity\\applicationuserstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\employee_api_jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:employee_api_jwt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\identity\\applicationusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:identity\\applicationusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\migrations\\20250905062541_addemployeemodeltodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:migrations\\20250905062541_addemployeemodeltodatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|c:\\angularprojectfolder2\\employee_api_jwt\\migrations\\20250905062452_initload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAFC1A3-AB60-49B4-9392-123600EF34A1}|Employee_API_JWT.csproj|solutionrelative:migrations\\20250905062452_initload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationSignInManager.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationSignInManager.cs",
+              "RelativeDocumentMoniker": "Identity\\ApplicationSignInManager.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationSignInManager.cs",
+              "RelativeToolTip": "Identity\\ApplicationSignInManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:49:36.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:53:39.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T06:36:48.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\ServiceContract\\IUserService.cs",
+              "RelativeDocumentMoniker": "ServiceContract\\IUserService.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\ServiceContract\\IUserService.cs",
+              "RelativeToolTip": "ServiceContract\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T06:35:27.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\AppSettings.cs",
+              "RelativeDocumentMoniker": "AppSettings.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\AppSettings.cs",
+              "RelativeToolTip": "AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T19:41:52.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:35:25.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:52:39.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Identity\\ApplicationRole.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationRole.cs",
+              "RelativeToolTip": "Identity\\ApplicationRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:38:09.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationRoleStore.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationRoleStore.cs",
+              "RelativeDocumentMoniker": "Identity\\ApplicationRoleStore.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationRoleStore.cs",
+              "RelativeToolTip": "Identity\\ApplicationRoleStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:45:02.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationRoleManager.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationRoleManager.cs",
+              "RelativeDocumentMoniker": "Identity\\ApplicationRoleManager.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationRoleManager.cs",
+              "RelativeToolTip": "Identity\\ApplicationRoleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:48:21.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Identity\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Identity\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:38:55.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T06:17:46.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Models\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Models\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "Models\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T06:18:19.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUserStore.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationUserStore.cs",
+              "RelativeDocumentMoniker": "Identity\\ApplicationUserStore.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationUserStore.cs",
+              "RelativeToolTip": "Identity\\ApplicationUserStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:43:37.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\SD.cs",
+              "RelativeDocumentMoniker": "SD.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\SD.cs",
+              "RelativeToolTip": "SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T22:06:17.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConfigureSwaggerOptions.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\ConfigureSwaggerOptions.cs",
+              "RelativeDocumentMoniker": "ConfigureSwaggerOptions.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\ConfigureSwaggerOptions.cs",
+              "RelativeToolTip": "ConfigureSwaggerOptions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA+wCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T22:08:56.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T05:51:55.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee_API_JWT.csproj",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Employee_API_JWT.csproj",
+              "RelativeDocumentMoniker": "Employee_API_JWT.csproj",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Employee_API_JWT.csproj",
+              "RelativeToolTip": "Employee_API_JWT.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T05:36:31.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:35:20.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250905062452_initLoad.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Migrations\\20250905062452_initLoad.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250905062452_initLoad.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Migrations\\20250905062452_initLoad.cs",
+              "RelativeToolTip": "Migrations\\20250905062452_initLoad.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T06:24:52.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250905062541_AddEmployeeModelToDatabase.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Migrations\\20250905062541_AddEmployeeModelToDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250905062541_AddEmployeeModelToDatabase.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Migrations\\20250905062541_AddEmployeeModelToDatabase.cs",
+              "RelativeToolTip": "Migrations\\20250905062541_AddEmployeeModelToDatabase.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T06:25:41.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUserManager.cs",
+              "DocumentMoniker": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationUserManager.cs",
+              "RelativeDocumentMoniker": "Identity\\ApplicationUserManager.cs",
+              "ToolTip": "C:\\AngularProjectFolder2\\Employee_API_JWT\\Identity\\ApplicationUserManager.cs",
+              "RelativeToolTip": "Identity\\ApplicationUserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T05:47:19.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
